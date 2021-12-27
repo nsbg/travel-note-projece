@@ -6,8 +6,8 @@
 ##### ◽ 구현 기능 : 데이터 추가, 삭제, 조회, 검색   
 ------------------ 
 ##### ◽ 앱 실행 화면   
-1) 시작화면, 메인화면   
+##### 1) 시작화면, 메인화면    
 <img src="image/start.jpg" width="200px" height="380px"> <img src="image/main.jpg" width="200px" height="380px"> 
    
-2) 데이터 추가/삭제/검색   
+##### 2) 데이터 추가/삭제/검색    
 <img src="image/add.jpg" width="200px" height="380px"> <img src="image/delete.jpg" width="200px" height="380px"> <img src="image/search.jpg" width="200px" height="380px">
