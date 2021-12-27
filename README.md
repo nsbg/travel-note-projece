@@ -7,9 +7,8 @@
 ------------------ 
 ##### ◽ 앱 실행 화면   
 
-![시작](image/start.jpg)
-![메인](image/main.jpg)
-![추가](image/add.jpg)
-![삭제](image/delete.jpg)
-![검색](image/search.jpg)
-
+![시작]<img src="image/start.jpg" width="300px" height="500px">
+![메인]<img src="image/main.jpg" width="300px" height="500px">
+![추가]<img src="image/add.jpg" width="300px" height="500px">
+![삭제]<img src="image/delete.jpg" width="300px" height="500px">
+![검색]<img src="image/search.jpg" width="300px" height="500px">
