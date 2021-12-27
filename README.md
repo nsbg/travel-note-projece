@@ -8,8 +8,8 @@
 ##### ◽ 앱 실행 화면   
 
 ![시작](image\start.jpg)
-![메인](image/main.jpg)
-![추가](image/add.jpg)
-![삭제](image/delete.jpg)
-![검색](image/search.jpg)
+![메인](image\main.jpg)
+![추가](image\add.jpg)
+![삭제](image\delete.jpg)
+![검색](image\search.jpg)
 
