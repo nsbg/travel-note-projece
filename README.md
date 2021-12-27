@@ -7,7 +7,7 @@
 ------------------ 
 ##### ◽ 앱 실행 화면   
 
-![시작](image\start.jpg)
+![시작](C:\Users\epdls\Desktop\for-github\travel-note-project\image\start.jpg)
 ![메인](image\main.jpg)
 ![추가](image\add.jpg)
 ![삭제](image\delete.jpg)
