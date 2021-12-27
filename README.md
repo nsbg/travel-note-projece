@@ -7,4 +7,4 @@
 ------------------ 
 ##### ◽ 앱 실행 화면   
 
-<img src="image/start.jpg" width="200px" height="400px"> <img src="image/main.jpg" width="200px" height="400px"> <img src="image/add.jpg" width="200px" height="400px"> <img src="image/delete.jpg" width="200px" height="400px"> <img src="image/search.jpg" width="200px" height="400px">
+<img src="image/start.jpg" width="200px" height="400px"> <img src="image/main.jpg" width="200px" height="350px"> <img src="image/add.jpg" width="200px" height="350px"> <img src="image/delete.jpg" width="200px" height="350px"> <img src="image/search.jpg" width="200px" height="350px">
